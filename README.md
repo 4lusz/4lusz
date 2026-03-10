@@ -1,16 +1,17 @@
-## Hi there 👋
+# Aluisio Moura Prado
 
-<!--
-**4lusz/4lusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação na UFJ.
 
-Here are some ideas to get you started:
+Interesses:
+- automação
+- backend
+- inteligência artificial
+- sistemas SaaS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projetos principais:
+
+ANVCONSULTA
+Sistema automatizado de monitoramento do Diário Oficial da União.
+
+BarberHub
+Plataforma SaaS de agendamento e gestão para barbearias.
