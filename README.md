@@ -1,4 +1,4 @@
-# Aluisio Moura Prado
+# Aluisio Moura Prado 🦇
 
 Estudante de Ciência da Computação na UFJ.
 
